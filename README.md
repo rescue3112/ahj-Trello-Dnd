@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/gufh2ey3a9r6uqqr?svg=true)](https://ci.appveyor.com/project/rescue3112/ahj-trello-dnd)
 
 https://rescue3112.github.io/ahj-Trello-Dnd/
 
